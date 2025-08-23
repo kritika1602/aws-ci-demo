@@ -1,4 +1,3 @@
-![Architecture](AWS CODE PIPELINE.png)
 # AWS ci/cd Demo
 
 ## Set Up GitHub Repository
